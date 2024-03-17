@@ -1,0 +1,101 @@
+body{
+    background:url(./bg.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color: red;
+    font-style: Graphique Pro;
+}
+.box{
+    height: 620px;
+    width: 550px;
+    margin: auto;
+    background-color: black;
+}
+.sign{
+    color: white;
+    
+    margin-top: -500px;
+    margin-left: 450px;
+}
+.io{
+    margin-left: 450px;
+    border-color: white;
+    input[type="text"] {
+        background-color: black; 
+        color: white; 
+        width: 300px;
+        padding: 10px;
+}}
+
+.pass{
+    margin-left: 450px;
+    border-color: white;
+    input[type="text"] {
+        background-color:black; 
+        color: white; 
+        width: 300px;
+        padding: 10px;
+
+}}
+
+#s{
+   
+    
+    height: 20px;
+    
+        background-color:red; 
+        color:white; 
+        width: 325px;
+        height: 45px;
+        text-align: center;
+        margin-left:450px ;
+
+}
+
+h4{
+    color: antiquewhite;
+    margin-left: -120px;
+}
+#t
+{
+    height: 20px;
+    color:white; 
+    width: 325px;
+    height: 45px;
+    text-align: center;
+    margin-left:450px ;
+    background-color: gray;
+
+}
+#f{
+    color: wheat;
+    font-size: small;
+    margin-left: 565px;
+}
+#i{
+    margin-left: 500px;
+    color: white;
+    font-size: small;
+}
+#rm{
+    color: white;
+    margin-left: -50px;
+    margin-top: 80px;
+}
+#ty
+{color: wheat;
+    font-size: small;
+    margin-left: 565px;
+
+}
+h5{
+    color: white;
+    margin-left: 450px;
+    margin-top: 10px;
+}
+#kk{
+    margin-left: 540px;
+    margin-top: -38px;
+}
